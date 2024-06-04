@@ -13,7 +13,7 @@ This is a Python script to generate certificates using a template image and a li
 1. Clone the repository:
 
     
-    git clone https://github.com/bainash10/Tkinter-Certificate-Generator/
+    git clone https://github.com/collabyte/Certificate-Generation-App
     
 
 2. Navigate to the project directory
